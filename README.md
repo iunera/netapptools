@@ -8,6 +8,7 @@ This small Netapp Data ONTAP PowerShell Toolkit allows you create scripted Enhan
 
 See the example where a 153GB VM has been cloned 1000 times with a storage saving / deduplication of 99%.
 
+<img src="https://github.com/iunera/netapptools/blob/master/enhanced-flexclone-power.PNG" />
 
 
 ## Howto 
