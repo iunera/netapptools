@@ -45,7 +45,7 @@ example <code>cloneFolder -SourceFolder "vm1" -TargetFolder "vm1_clone" </code>
 
 <h1>Acknowledgement</h1>	
 <p >
-			This project was realized by the help of the STAPPZ project and the guys form IUNERA: </p><p>
+			This project was realized by the help of the STAPPZ project and the guys form <a href="http://www.iunera.com">IUNERA:</a> </p><p>
 				 <a href="http://maps.stappz.com" style="margin-left: 100px;" 
 		><img
 			src="https://github.com/iunera/codeanalysis/raw/master/src/stappzlogo.png" alt="STAPPZ App" height="50px"></a>
