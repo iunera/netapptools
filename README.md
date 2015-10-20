@@ -3,8 +3,7 @@
 This script gets used to advance the cloning process on NetApp volumes. We use it to clone complete directories (scripted from powershell) in an efficent and easy way instead of cloning file by file manually. 
 
 Below, you find the use details and requirements to execute the script.
-Requires the Data ONTAP PowerShell Toolkit installed on the executing system
-http://support.netapp.com/NOW/download/tools/powershell_toolkit/
+
 
 ## Overview
 This small Netapp Data ONTAP PowerShell Toolkit allows you create scripted Enhanced Flexclone from a complete (nfs exported) Directory inside a volume. We've used this to create highly storage-efficient automated copy-on-write clones from a bunch of Virtual Machines store on NFS exported Netapp Volumes:
@@ -14,6 +13,8 @@ See the example where a 153GB VM has been cloned 1000 times with a storage savin
 <img src="https://github.com/iunera/netapptools/blob/master/enhanced-flexclone-power.PNG" />
 
 
+Requires the Data ONTAP PowerShell Toolkit installed on the executing system
+http://support.netapp.com/NOW/download/tools/powershell_toolkit/
 ## Howto 
 
 1. load script
