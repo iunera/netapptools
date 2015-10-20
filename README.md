@@ -1,10 +1,5 @@
 # NetApp Powershell Tools / Enhanced Flexclone (sis clone) of Directories with Powershell
 
-This script gets used to advance the cloning process on NetApp volumes. We use it to clone complete directories (scripted from powershell) in an efficent and easy way instead of cloning file by file manually. 
-
-Below, you find the use details and requirements to execute the script.
-
-
 Requires the Data ONTAP PowerShell Toolkit installed on the executing system
 http://support.netapp.com/NOW/download/tools/powershell_toolkit/
 
@@ -45,4 +40,4 @@ See the example where a 153GB VM has been cloned 1000 times with a storage savin
 example <code>cloneFolder -SourceFolder "vm1" -TargetFolder "vm1_clone" </code>
 
 
-Contact: chris@iunera.com
+Contact: christian.schmitt@iunera.com
